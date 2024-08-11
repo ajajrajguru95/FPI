@@ -1,0 +1,153 @@
+/*!**********************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/postcss-loader/dist/cjs.js!./node_modules/css-unicode-loader/index.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/wp-admin.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************/
+.wp-admin .acf-tooltip li {
+  position: relative;
+}
+.wp-admin .acf-tooltip li a {
+  padding-left: 30px;
+}
+.wp-admin .acf-tooltip li a:after {
+  content: "";
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 3px;
+  left: 5px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: all 0.3s ease;
+}
+.wp-admin .acf-tooltip li a:hover:after {
+  width: 300px;
+  height: 300px;
+  left: -300px;
+  top: 0;
+  background-position: center top;
+}
+.wp-admin .acf-tooltip li a[data-layout=slider_banner]:after {
+  background-image: url("../../assets/images/cms-icons/slider_banner.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=about_us]:after {
+  background-image: url("../../assets/images/cms-icons/about_us.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=image_group]:after {
+  background-image: url("../../assets/images/cms-icons/image_group.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=fullbanner_content]:after {
+  background-image: url("../../assets/images/cms-icons/sustainable_block.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=key_numbers]:after {
+  background-image: url("../../assets/images/cms-icons/key_numbers.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=progress_slide]:after {
+  background-image: url("../../assets/images/cms-icons/progress_slide.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=sectors_block]:after {
+  background-image: url("../../assets/images/cms-icons/sector.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=news_block]:after {
+  background-image: url("../../assets/images/cms-icons/news_block.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=products_block]:after {
+  background-image: url("../../assets/images/cms-icons/product_category.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=info_values]:after {
+  background-image: url("../../assets/images/cms-icons/expertise.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=relevant_product]:after {
+  background-image: url("../../assets/images/cms-icons/relevant_product.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=available_sectors]:after {
+  background-image: url("../../assets/images/cms-icons/available_sectors.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=form_block]:after {
+  background-image: url("../../assets/images/cms-icons/form_block.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=downloadable_block]:after {
+  background-image: url("../../assets/images/cms-icons/downloadable_block.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=case_studies]:after {
+  background-image: url("../../assets/images/cms-icons/case_studies.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=joint_systems]:after {
+  background-image: url("../../assets/images/cms-icons/joint_systems.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=solutions_block]:after {
+  background-image: url("../../assets/images/cms-icons/solutions_block.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=full_image]:after {
+  background-image: url("../../assets/images/cms-icons/full_image.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=teams_slider]:after {
+  background-image: url("../../assets/images/cms-icons/teams_slider.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=accreditations]:after {
+  background-image: url("../../assets/images/cms-icons/accreditations.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=list_hover]:after {
+  background-image: url("../../assets/images/cms-icons/list_hover.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=chart_block]:after {
+  background-image: url("../../assets/images/cms-icons/chart_block.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=text_content]:after {
+  background-image: url("../../assets/images/cms-icons/text_content.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=list_block]:after {
+  background-image: url("../../assets/images/cms-icons/list_block.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=image_wrap_content]:after {
+  background-image: url("../../assets/images/cms-icons/image_wrap_content.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=vacancy]:after {
+  background-image: url("../../assets/images/cms-icons/vacancy.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=teams]:after {
+  background-image: url("../../assets/images/cms-icons/teams.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=latest_news]:after {
+  background-image: url("../../assets/images/cms-icons/latest_news.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=latest_events]:after {
+  background-image: url("../../assets/images/cms-icons/latest_events.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=two_column_blocks]:after {
+  background-image: url("../../assets/images/cms-icons/two_column_blocks.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=tabs_block]:after {
+  background-image: url("../../assets/images/cms-icons/tabs_block.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=testimonials]:after {
+  background-image: url("../../assets/images/cms-icons/testimonials.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=card_slider]:after {
+  background-image: url("../../assets/images/cms-icons/card_slider.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=ticker_text]:after {
+  background-image: url("../../assets/images/cms-icons/ticker_text.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=timeline_block]:after {
+  background-image: url("../../assets/images/cms-icons/timeline_block.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=content_editor]:after {
+  background-image: url("../../assets/images/cms-icons/content_editor.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=quote]:after {
+  background-image: url("../../assets/images/cms-icons/quote.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=gallery_block]:after {
+  background-image: url("../../assets/images/cms-icons/gallery_block.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=video_block]:after {
+  background-image: url("../../assets/images/cms-icons/video_block.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=time_table]:after {
+  background-image: url("../../assets/images/cms-icons/time_table.jpg");
+}
+.wp-admin .acf-tooltip li a[data-layout=product_listing]:after {
+  background-image: url("../../assets/images/cms-icons/product_listing.jpg");
+}
+
+/*# sourceMappingURL=admin.min.css.map*/
